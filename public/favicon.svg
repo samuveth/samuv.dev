@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <style>
-    path { fill: #222; }
-    @media (prefers-color-scheme: dark) {
-      path { fill: #ffffff; }
-    }
-  </style>
-  <path d="M27.562 26L17.17 8.928l2.366-3.888L17.828 4L16 7.005L14.17 4l-1.708 1.04l2.366 3.888L4.438 26H2v2h28v-2zM16 10.85L25.22 26H17v-8h-2v8H6.78z" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--carbon" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M26 18h-2l-2 3.897L20 18h-2l2.905 5L18 28h2l2-3.799L24 28h2l-2.902-5L26 18z" fill="currentColor"></path><path d="M19 6V4h-5.087a1.99 1.99 0 0 0-1.992 1.819L11.27 13H7v2h4.087l-1 11H5v2h5.087a1.99 1.99 0 0 0 1.992-1.819L13.095 15H18v-2h-4.723l.636-7z" fill="currentColor"></path></svg>

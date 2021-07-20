@@ -11,7 +11,10 @@ declare module 'vue' {
     CarbonPedestrian: typeof import('virtual:vite-icons/carbon/pedestrian')['default']
     CarbonSun: typeof import('virtual:vite-icons/carbon/sun')['default']
     CarbonWarning: typeof import('virtual:vite-icons/carbon/warning')['default']
+    'Fa:angleDoubleLeft': typeof import('virtual:vite-icons/fa/angle-double-left')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
+    MainCard: typeof import('./src/components/MainCard.vue')['default']
+    'Mdi:twitter': typeof import('virtual:vite-icons/mdi/twitter')['default']
     README: typeof import('./src/components/README.md')['default']
   }
 }
